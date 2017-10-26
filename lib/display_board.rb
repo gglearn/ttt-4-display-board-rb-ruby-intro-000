@@ -11,6 +11,3 @@ end
 
 board = ["O", "X", " ", " ", "X", " ", "X", "O", " "]
 display_board(board)
-
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-display_board(board)
